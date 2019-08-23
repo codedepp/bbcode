@@ -3,7 +3,6 @@ BBCode
 
 [![Latest Version](https://img.shields.io/github/release/codedepp/bbcode.svg?style=flat-square)](https://github.com/codedepp/bbcode/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://travis-ci.org/codedepp/bbcode.svg?branch=master)](https://travis-ci.org/codedepp/bbcode)
 
 > BBCode parser from or to HTML.
 
